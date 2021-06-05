@@ -37,7 +37,7 @@ if TG_BOT_USER_NAME_BF_HER is not None:
         if query.startswith("alive") and event.query.user_id == me.id:
             buttons = [
                 [
-                    Button.url("Repo", "https://github.com/LEGENDXOP/SURYAPLAYZUSERBOT"),
+                    Button.url("Repo", "https://github.com/SURYAPLAYZUSERBOT/SURYAPLAYZUSERBOT"),
                     Button.url("Deploy", "https://heroku.com/deploy?template=https://github.com/legendx22/SURYAPLAYZUSERBOT/blob/master")],
                     [Button.url("String", "https://repl.it/legendx22/SURYAPLAYZUSERBOT#main.py"),
                     Button.url("Channel", "https://t.me/teamishere"),

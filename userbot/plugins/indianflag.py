@@ -1,5 +1,5 @@
 # Coded by @CyberBoyAyush
-# For LEGENDBOT : https://github.com/LEGENDXOP/SURYAPLAYZUSERBOT
+# For LEGENDBOT : https://github.com/SURYAPLAYZUSERBOT/SURYAPLAYZUSERBOT
 
 
 from telethon import events
