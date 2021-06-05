@@ -19,7 +19,7 @@ jobs:
 
         with:
 
-          find: "LEGEND-BOT"
+          find: "legend-bot"
 
           replace: "SURYAPLAYZUSERBOT"
 
